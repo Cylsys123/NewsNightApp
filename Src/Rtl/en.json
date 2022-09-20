@@ -1,0 +1,43 @@
+{
+    "SignIn_Screen":{
+        "HeadText":"Sign In",
+        "InputText_Title":"Email ID or Mobile Number",
+        "InputText_Password":"Password",
+        "Link_ForgotPass":"Forgot Password",
+        "MainButton_title":"Login",
+        "SimpleText_1":"Sign In with other",
+        "SimpleText_2":"Don't have an account?",
+        "Link_signUp":"Sign UP"
+    },
+    "SignUp_Screen":{
+        "HeadText":"Sign Up",
+        "InputTitle_Fname":"Name",
+        "InputTitle_EmailId":"Email Id",
+        "InputTitle_Mobile":"Mobile Number",
+        "InputTitle_Password":"Password",
+        "InputTitle_Confirm":"Re-enter Password",
+        "MainButton_title":"Sign Up",
+        "SimpleText_1":"Sign Up with other",
+        "SimpleText_2":"Already have an account?",
+        "Link_signIn":"Sign In",
+        "Link_Terms":"Terms & Conditions"
+    },
+    "ForgotPassword_Screen":{
+        "HeadText":"Forgot Password",
+        "InputTitle":"Enter your registered email ID or mobile number to receive Verification code",
+        "MainButton_title":"Send"
+    },
+    "Verification_Screen":{
+        "HeadText":"Verification",
+        "SimpleText_1":"Please enter 4 digit code sent to ",
+        "MainButton_title":"Verify"
+    },
+    "CreatePassword_Screen":{
+        "HeadText":"Create Password",
+        "SimpleText_1":"Create new password and sign In again",
+        "InputTitle_Password":"Password",
+        "InputTitle_Confirm":"Confirm Password",
+        "MainButton_title":"Save"
+    }
+
+}
